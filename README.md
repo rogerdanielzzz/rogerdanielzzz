@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roger Perez</h1>
 <h3 align="center">I am passionate about challenges and new areas of learning, with an analytical profile and extensive experience in retail operations, solving problems satisfactorily. Since 2020 I have been learning technologies like HTML. CSS and Javascript at Coderhouse and I wanted to delve deeper into bases of computer's science such as data structures and algorithms at Bootcamp I'm Henry, where I've learned to work with React, redux, express and nodeJs, I have developed several projects. what word describes me? "Resilience".</h3>
 
-- 🔭 I’m currently working on [Game Loop (ecomerce)](https://gamer-commerce.vercel.app/)
+- 🔭 I’m currently working on Checkapp Gym backend
 
 - 🌱 I’m currently learning **Backend development at coderhouse**
 
